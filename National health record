@@ -1,0 +1,5 @@
+Phase,Task,Tool
+01,API Integration,Connect Google AI Studio to the backend via Python/Node.js.
+02,Schema Design,"Define the JSON structure for a ""Respiratory Event."""
+03,Model Tuning,Use System Instructions in AI Studio to ensure medical-grade tone.
+04,Deployment,Host the record system on a secure cloud (GCP/Azure).
